@@ -7,11 +7,11 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 How to run the project?
 
 1. Clone or download this repository to your local machine.
-2.Download all data sets given below(for proper work flow).
-3. Install all the libraries mentioned in the [requirements.txt](https://github.com/22satnam/recommendation-engine) file with the command `pip install -r requirements.txt`
-4. Get your API key from https://www.themoviedb.org/.
-5. Open your terminal/command prompt from your project directory and run the file `application.py` by executing the command `python application.py`.
-6. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
+2. Download all data sets given below(for proper work flow).
+4. Install all the libraries mentioned in the [requirements.txt](https://github.com/22satnam/recommendation-engine) file with the command `pip install -r requirements.txt`
+5. Get your API key from https://www.themoviedb.org/.
+6. Open your terminal/command prompt from your project directory and run the file `application.py` by executing the command `python application.py`.
+7. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
 
 
 How Cosine Similarity works?
