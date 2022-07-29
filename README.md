@@ -24,11 +24,7 @@ Content-based filtering does not require other users' data during recommendation
 https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
 
 
-Microsoft Engage 2022 Video Submission Link 
-https://drive.google.com/drive/folders/1Wk8LHmEZpJfeM8Q1dfMjykIDHsoUpMdv?usp=sharing
-
-
- Sources of the datasets 
+Sources of the datasets 
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
